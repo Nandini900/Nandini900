@@ -15,4 +15,4 @@ PDF file  link  https://drive.google.com/file/d/1VgaLz5qBPTCrFlTkJ3vgp2iSMwgagWw
 
  PBIX FILE LINK https://drive.google.com/file/d/1ViEM96Rs-dACaBE4_b8SMHGV6LYSUNzN/view?usp=drivers 
  
-canva link : https://www.canva.com/design/DAF4Jut1TQ8/zEoToZMPpm7S2YAIKEx0rA/view?utm_content=DAF4Jut1TQ8&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+canva link :https://www.canva.com/design/DAF4d8fOv0A/WGhS10XQS1aGrN267tSkFA/edit?utm_content=DAF4d8fOv0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
