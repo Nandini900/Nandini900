@@ -1,4 +1,4 @@
-### UNP_ PROJECT_BI WITH POWER BI _ SUPPLY CHAIN 
+ji### UNP_ PROJECT_BI WITH POWER BI _ SUPPLY CHAIN 
 
 
 completed this project as part of my BI with power BI internship with united network of professionals (UNP).
@@ -15,4 +15,4 @@ PDF file  link  https://drive.google.com/file/d/1VgaLz5qBPTCrFlTkJ3vgp2iSMwgagWw
 
  PBIX FILE LINK https://drive.google.com/file/d/1ViEM96Rs-dACaBE4_b8SMHGV6LYSUNzN/view?usp=drivers 
  
-canva link :https://www.canva.com/design/DAF4d8fOv0A/WGhS10XQS1aGrN267tSkFA/edit?utm_content=DAF4d8fOv0A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+canva link:https://www.canva.com/design/DAF4eDQmfbE/JSFH494WOwzjla5KgeKpdQ/edit?utm_content=DAF4eDQmfbE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
